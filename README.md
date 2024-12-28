@@ -4,7 +4,7 @@ Welcome to the **Java OOPS + DSA** repository! 🚀 This repository is a collect
 
 ## 📚 Overview
 This repository is designed to help you:
-- Learn Java Language Baic to Advance
+- Learn **Java Language** Basic to Advance
 - Build a solid understanding of **OOPs principles** in Java.
 - Solve a variety of **Data Structures and Algorithm** problems.
 - Enhance your **problem-solving** and **coding** skills.
