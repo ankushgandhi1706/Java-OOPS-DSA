@@ -1,6 +1,6 @@
 # Arrays in Java
 
-Welcome to the **Arrays in Java** repository! This folder contains examples and problems related to arrays, covering essential concepts, operations, and algorithms in Java. Whether you're a beginner or preparing for coding interviews, this is your go-to resource for mastering arrays in Java. 🚀
+Welcome to the **Arrays in Java** folder! This folder contains examples and problems related to arrays, covering essential concepts, operations, and algorithms in Java. Whether you're a beginner or preparing for coding interviews, this is your go-to resource for mastering arrays in Java. 🚀
 
 ## 📂 Folder Structure
 
@@ -54,7 +54,7 @@ Feel free to fork this repository, add more problems, or optimize existing solut
 
 This folder is curated by **Ankush Gandhi**, an engineering student specializing in Computer Science (AI & ML).  
 - [GitHub Profile](https://github.com/AnkushGandhi)  
-- [LinkedIn](https://www.linkedin.com/in/ankush-gandhi)
+- [LinkedIn](https://www.linkedin.com/in/ankush-gandhi-045a7122a)
 
 ---
 
