@@ -22,5 +22,5 @@ This folder contains Java implementations of various array searching algorithms,
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ankushgandhi1706/Java-OOPS-DSA/Arrays-in-java/searching-in-arrays-java.git
+   git clone https://github.com/ankushgandhi1706/Java-OOPS-DSA/Arrays-in-java/searching-in-arrays.git
    cd searching-in-arrays-java
