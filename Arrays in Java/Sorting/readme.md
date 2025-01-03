@@ -18,32 +18,48 @@ Welcome to the **Sorting Algorithms in Java** repository! This folder contains i
    **Complexity**: O(n²)  
    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/BubbleSort.java)
 
-2. **Selection Sort**  
+2. **Bubble Sort (Recursive)**  
+    A recursive implementation of the classic Bubble Sort algorithm, which repeatedly swaps adjacent elements if they are in the wrong order until the array is 
+    sorted.  
+    **Complexity**: O(n²)  
+    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/BubbleSortUsingRecursion.java)
+
+3. **Selection Sort**  
    An in-place comparison-based algorithm that divides the input list into two parts: sorted and unsorted.  
    **Complexity**: O(n²)  
    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/SelecionSort.java)
 
-3. **Insertion Sort**  
+4. **Selection Sort (Recursive)**  
+    A recursive implementation of Selection Sort that repeatedly selects the smallest element from the unsorted part and moves it to the sorted part of the array. 
+    **Complexity**: O(n²)  
+    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/SelectionSortUsingRecursion.java)
+
+5. **Insertion Sort**  
    Builds the sorted array one element at a time by repeatedly inserting unsorted elements into their correct position.  
    **Complexity**: O(n²)  
    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/InsertionSort.java)
 
-4. **Merge Sort**  
+6. **Merge Sort**  
    A divide-and-conquer algorithm that divides the array into halves, sorts them recursively, and then merges them.  
    **Complexity**: O(n log n)  
    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/MergeSort.java)
 
-5. **Quick Sort**  
+7. **Merge Sort (In-Place)**  
+    An in-place variation of Merge Sort that sorts the array by dividing it into halves, sorting recursively, and merging without using extra space.  
+    **Complexity**: O(n log n)  
+    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/MergeSortInplace.java)
+
+8. **Quick Sort**  
    Another divide-and-conquer algorithm that partitions the array based on a pivot element.  
    **Complexity**: O(n log n)  
    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/QuickSort.java)
 
-6. **Heap Sort**  
+9. **Heap Sort**  
    Utilizes a binary heap structure to sort elements efficiently.  
    **Complexity**: O(n log n)  
    [View Implementation](link-to-file)
 
-7. **Cycle Sort**  
+10. **Cycle Sort**  
     An in-place, non-comparison sorting algorithm that minimizes the number of writes to the array by rotating elements to their correct positions.  
     **Complexity**: O(n²)  
     [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/CycleSort.java)
