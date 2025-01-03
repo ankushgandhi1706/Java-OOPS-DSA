@@ -21,43 +21,33 @@ Welcome to the **Sorting Algorithms in Java** repository! This folder contains i
 2. **Selection Sort**  
    An in-place comparison-based algorithm that divides the input list into two parts: sorted and unsorted.  
    **Complexity**: O(n²)  
-   [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/BubbleSort.java)
+   [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/SelecionSort.java)
 
 3. **Insertion Sort**  
    Builds the sorted array one element at a time by repeatedly inserting unsorted elements into their correct position.  
    **Complexity**: O(n²)  
-   [View Implementation](link-to-file)
+   [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/InsertionSort.java)
 
 4. **Merge Sort**  
    A divide-and-conquer algorithm that divides the array into halves, sorts them recursively, and then merges them.  
    **Complexity**: O(n log n)  
-   [View Implementation](link-to-file)
+   [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/MergeSort.java)
 
 5. **Quick Sort**  
    Another divide-and-conquer algorithm that partitions the array based on a pivot element.  
    **Complexity**: O(n log n)  
-   [View Implementation](link-to-file)
+   [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/QuickSort.java)
 
 6. **Heap Sort**  
    Utilizes a binary heap structure to sort elements efficiently.  
    **Complexity**: O(n log n)  
    [View Implementation](link-to-file)
 
-7. **Counting Sort**  
-   A non-comparison-based algorithm suitable for sorting integers or objects within a limited range.  
-   **Complexity**: O(n + k)  
-   [View Implementation](link-to-file)
-
-8. **Radix Sort**  
-   A non-comparison-based sorting algorithm that processes digits individually starting from the least significant digit.  
-   **Complexity**: O(nk)  
-   [View Implementation](link-to-file)
-
-9. **Bucket Sort**  
-   Distributes elements into buckets and sorts them individually.  
-   **Complexity**: O(n + k)  
-   [View Implementation](link-to-file)
-
+7. **Cycle Sort**  
+    An in-place, non-comparison sorting algorithm that minimizes the number of writes to the array by rotating elements to their correct positions.  
+    **Complexity**: O(n²)  
+    [View Implementation](https://github.com/ankushgandhi1706/Java-OOPS-DSA/blob/main/Arrays%20in%20Java/Sorting/CycleSort.java)
+   
 ---
 
 ## 💡 Features
