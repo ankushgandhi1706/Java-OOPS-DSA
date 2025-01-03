@@ -16,7 +16,7 @@ Welcome to the **Sorting Algorithms in Java** repository! This folder contains i
 1. **Bubble Sort**  
    A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.  
    **Complexity**: O(n²)  
-   [View Implementation](link-to-file)
+   [View Implementation](Arrays in Java/Sorting/BubbleSort.java)
 
 2. **Selection Sort**  
    An in-place comparison-based algorithm that divides the input list into two parts: sorted and unsorted.  
