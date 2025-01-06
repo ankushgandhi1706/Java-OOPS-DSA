@@ -25,7 +25,7 @@ To understand the examples in this module, you should be familiar with:
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Java-OOPS-DSA.git
+   git clone https://github.com/ankushgandhi1706/Java-OOPS-DSA.git
    cd Java-OOPS-DSA/ArrayList
 2. Compile and run the Java files:
    ```bash
